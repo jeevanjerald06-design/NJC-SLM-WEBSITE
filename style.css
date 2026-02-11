@@ -218,7 +218,7 @@ body {
     overflow: hidden;
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
     aspect-ratio: 16 / 10;
-    max-width: 500px;
+    max-width: 100%;
     margin: 0 auto;
 }
 
@@ -1053,6 +1053,7 @@ body {
         font-size: 1.4rem;
     }
 }
+
 
 
 
