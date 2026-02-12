@@ -1049,6 +1049,13 @@ body {
     object-fit: cover;
     border-radius: 12px;
 }
+.scripture-quote {
+    background-color: #EEF3F9;
+    border-left: 4px solid #0D2C54;
+    padding: 20px 30px;
+    border-radius: 8px;
+}
+
 
 
 
