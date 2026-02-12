@@ -1054,7 +1054,12 @@ body {
     border-left: 4px solid #0D2C54;
     padding: 20px 30px;
     border-radius: 8px;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 1.5rem;
 }
+
+
 
 
 
