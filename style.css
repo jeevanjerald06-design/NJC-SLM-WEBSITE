@@ -884,7 +884,7 @@ body {
 }
 
 .youtube-channel:hover {
-    background-color: #FFD700;
+    background-color: (--charcoal-black);
     color: #000000;
     transform: translateY(-5px);
     box-shadow: 0 10px 25px rgba(255, 215, 0, 0.4);
@@ -1066,6 +1066,7 @@ body {
     object-fit: cover;
     border-radius: 12px;
 }
+
 
 
 
